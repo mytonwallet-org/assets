@@ -1,0 +1,7 @@
+{
+  "name": "Test cJetton",
+  "description": "Test compressed jetton from MyTonWallet team",
+  "image": "https://example.com/asset.jpg",
+  "symbol": "cJTN",
+  "decimals": "9"
+}
