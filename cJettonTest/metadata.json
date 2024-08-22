@@ -1,7 +1,7 @@
 {
   "name": "Test cJetton",
   "description": "Test compressed jetton from MyTonWallet team",
-  "image": "https://example.com/asset.jpg",
+  "image": "https://cdn-icons-png.flaticon.com/256/1864/1864514.png",
   "symbol": "cJTN",
   "decimals": "9"
 }
