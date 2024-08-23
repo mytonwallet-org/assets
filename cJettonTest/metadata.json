@@ -3,5 +3,6 @@
   "description": "Test compressed jetton from MyTonWallet team",
   "image": "https://cdn-icons-png.flaticon.com/256/1864/1864514.png",
   "symbol": "cJTN",
-  "decimals": "9"
+  "decimals": "9",
+  "custom_payload_api_uri": "https://api.mytonwallet.org/cjettons/cJTN"
 }
